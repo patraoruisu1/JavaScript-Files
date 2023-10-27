@@ -1,4 +1,0 @@
-function perimetroDoCirculo(raio) {
-    // escreve aqui a função
-    return 2 * Math.PI * raio
-}
